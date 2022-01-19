@@ -1,0 +1,33 @@
+.allure_qr_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 695px;
+
+    .allure_qr_title{
+        padding: 0 20px;
+        font-size: 64px;
+        font-family: 'BigCaslonRegular';
+        font-weight: normal;
+        text-align: center;
+    }
+    .allure_qr_image{
+        margin: 56px 0;
+        .allure_qr_image-qr{
+            width: 324px;
+            height: 324px;
+        }
+    }
+    .allure_qr_footer{
+        .allure_qr_footer-text{
+            font-size: 18px;
+            font-family: 'PainRegular';
+            font-weight: normal;
+            text-align: center;
+            letter-spacing: 0.01em;
+            text-transform: uppercase;
+            color: #595959;
+        }
+    }
+}

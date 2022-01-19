@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #fff5f2;
+}
+html{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@import 'fonts/fonts';
+@import './components/allureLogo';
+@import './pages/app';
