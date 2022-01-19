@@ -1,0 +1,77 @@
+.klaviyo_form_container{
+    width: 310px;
+    .klavito_form__title{
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        font-family: 'BigCaslonRegular';
+    }
+    .klaviyo_form_subtitle{
+        margin: 34px 0 15px  0;
+        font-family: 'BigCaslonRegular';
+        font-size: 22px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .klavito_form_input{
+        width: 297px;
+        height: 50px;
+        padding: 0 20px;
+        background: #FFFFFF;
+        border: 1px solid rgba(219, 62, 64, 0.2);
+        box-sizing: border-box;
+        font-family: 'PainRegular';
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 26px;    
+    }
+    .klavito_form__label{
+        font-family: 'PainRegular';
+        font-size: 10px;
+        margin-top: 26px;
+        margin-bottom: 15px;
+        margin-left: -15px;
+        #allure_checkbox{
+            margin-right: 10px;
+        }
+    }
+    .klavito_form__conditions{
+        font-family: 'PainRegular';
+        font-size: 8px;
+        line-height: 11px;
+        width: 297px;
+    }
+    .klavito_form__button{
+        width: 295.61px;
+        height: 52.36px;
+        background: #0B0B0B;
+        border: 1px solid rgba(255, 180, 157, 0.56);
+        box-sizing: border-box;
+        color: #FFFFFF;
+        font-family: 'PainRegular';
+        font-size: 12px;
+        line-height: 22px;
+        margin-top: 10px;
+    }
+    .klavito_form_footer{
+        font-family: 'PainRegular';
+        text-transform: uppercase;
+        font-size: 9px;
+        line-height: 15px;
+        text-align: center;
+        margin-top:  15px;
+        .f-icon{
+            font-size: 14px;
+        }
+    }
+    .allure_log{
+        .allure_logo_image{
+            width: 144.35px;
+            height: 41.92px;
+        }
+        .allure_logo_text{
+            width: 70.8px;
+            height: 12.23px;
+        }
+    }
+}
