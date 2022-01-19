@@ -2,8 +2,8 @@ import AllureLogo from "./components/AllureLogo";
 import AllureQR from "./images/QR.svg";
 function App() {
   return (
-    <div className="allure_qr">
-      <div className="allure_qr_container">
+    <div className="allure_qr container mx-auto">
+      <div className="allure_qr_container mx-auto">
           <h1 className="allure_qr_title">Everything on the coffee menu today is proudly sponsored by:</h1>
           <div className="allure_qr_log"> 
              <AllureLogo/> 
